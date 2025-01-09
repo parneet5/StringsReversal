@@ -1,9 +1,3 @@
-# Name: Parneet Kaur
-# ccid: parneet5
-# studentId: 1753954
-# operating system: Windows 11 Pro
-# python version: Python version 3.11.9
-
 def validate_email(emailValidator):
     
     forbidden_domains = {
